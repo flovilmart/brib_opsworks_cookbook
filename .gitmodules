@@ -1,3 +1,6 @@
 [submodule "opsworks_python"]
 	path = opsworks_python
 	url = https://github.com/flovilmart/opsworks_python.git
+[submodule "ffmpeg"]
+	path = ffmpeg
+	url = https://github.com/flovilmart/chef_ffmpeg.git
